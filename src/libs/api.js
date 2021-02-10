@@ -9,7 +9,7 @@ export default [
                 default: 'client_credential',
             },
             {
-                name:'appId',
+                name:'appid',
                 default: 'wx9173e3022a7c6764',
             },
             {
