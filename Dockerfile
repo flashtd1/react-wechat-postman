@@ -1,4 +1,4 @@
-FROM node:11.11.0
+FROM node:10.12.0
 RUN npm cache clean --force
 RUN npm install -g yarn --registry=https://registry.npm.taobao.org
 
